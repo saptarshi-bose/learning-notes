@@ -1,0 +1,84 @@
+
+1. Types of Autowire in Spring framework.
+
+2. What are different scenario of @Bean.
+
+3. How many way to declare @Bean.
+
+4. @Controller and @RestController difference between them ?
+
+5. What is Functional Interface ?
+
+6. How to declare Functional Interface ?
+
+7. What is Lambda Expression ?
+
+8. Syntax to declare Lambda Expression ?
+
+9. Do you know Stream API ? How to do code into that ?
+
+10. What is Marker Interface :
+
+11. Do you know, any Marker Interface in Java ?
+
+12. What is Copy of Storage ? And how many types of Copy of Storage in Java ?
+
+13. What is Transient ? Why we are using in Java ?
+
+14. Explain Life Cycle of Thread ?
+
+15. What is join() in Thread ?
+
+16. What is Dependency Injection ?
+
+17. What is Spring Container ?
+
+18. What is Concurrent Collection ?
+
+19. What is ConcurrentHashMap ? Explain internal working of ConcurrentHashMap ? Benefits to use of ConcurrentHashMap ?
+
+20. What difference between ArrayList and LinkedList in Java ?
+
+21. What is defference between HashMap and HashTable in Java ?
+
+22. What is internal working of HashMap in Java ?
+
+23. Difference between ConcurrentHashMap and HashMap in Java ?
+
+24. Contract between equals() and HashCode() ?
+
+25. What is bucket, loadfactor and internal size ?
+
+26. What is Hash Collision in Java ?
+
+27. What is @ControllerAdvice ?
+
+28. How to handle global exception in Spring Boot ?
+
+29. What is @ExceptionHandler ?
+
+30. What is doubly Linked List in Java ?
+
+31. Difference b/n LIFO and FIFO ?
+
+32. How to implement by your own code for pop(), push() ?
+
+33. What is CrudRepository ?
+
+34. Difference between JpaRepository and CrudRepository ?
+
+35. Any other implementation of @Controller and @RestController in Spring?
+
+36. What is default method, why we are using this, What benefit to use of default method in Java ? Suppose will take or not take, what will happen ?
+
+37. What is your project in previous company ?
+
+38. What is name of project in previous company ?
+
+39. What you have done major role and your expertise in previous project ?
+
+40. What is your exact rolls & reposnsibility in your project of previous ?
+
+41. How you tackle wrost case in previous project & explain with example ?
+
+42. How you tackle issue in previous organization of project & with other team member of project ?
